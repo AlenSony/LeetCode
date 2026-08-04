@@ -1,0 +1,15 @@
+class Solution(object):
+    def findMissingElements(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        start = min(nums)
+        end = max(nums)
+        l1 = list(range(start,end+1))
+        
+        result = list(set(l1).difference(set(nums)))
+        result.sort()
+        return result
+
+        
