@@ -7,6 +7,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AlenSony/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/AlenSony/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -55,6 +56,7 @@ This is for storing my leetcode submissions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Memoization
