@@ -9,11 +9,14 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        slow = head
-        fast = head
+        current = head
+        length = 0
+        arr = []
+        while current != None:
+            length += 1
+            arr.append(current)
+            current = current.next
         
-        while fast and fast.next:
-            slow = slow.next          
-            fast = fast.next.next     
-            
-        return slow
+        return arr[length // 2]
+
+        
