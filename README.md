@@ -51,6 +51,7 @@ This is for storing my leetcode submissions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AlenSony/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
@@ -88,6 +89,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlenSony/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/AlenSony/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AlenSony/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
