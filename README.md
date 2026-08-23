@@ -74,6 +74,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AlenSony/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/AlenSony/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
