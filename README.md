@@ -114,4 +114,20 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AlenSony/LeetCode/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AlenSony/LeetCode/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AlenSony/LeetCode/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/AlenSony/LeetCode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
