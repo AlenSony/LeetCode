@@ -14,6 +14,7 @@ This is for storing my leetcode submissions
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -37,6 +38,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
