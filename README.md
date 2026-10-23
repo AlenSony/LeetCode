@@ -23,6 +23,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0263-ugly-number](https://github.com/AlenSony/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -80,6 +81,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AlenSony/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/AlenSony/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ This is for storing my leetcode submissions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/AlenSony/LeetCode/tree/main/0136-single-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AlenSony/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Divide and Conquer
@@ -151,4 +154,8 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AlenSony/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
