@@ -18,6 +18,7 @@ This is for storing my leetcode submissions
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AlenSony/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/AlenSony/LeetCode/tree/main/0136-single-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/AlenSony/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
