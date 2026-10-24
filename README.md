@@ -24,6 +24,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/AlenSony/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/AlenSony/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -70,6 +71,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/AlenSony/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Memoization
@@ -174,4 +176,8 @@ This is for storing my leetcode submissions
 | [0197-rising-temperature](https://github.com/AlenSony/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/AlenSony/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/AlenSony/LeetCode/tree/main/0577-employee-bonus/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/AlenSony/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
