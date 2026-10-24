@@ -168,6 +168,7 @@ This is for storing my leetcode submissions
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/AlenSony/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0183-customers-who-never-order](https://github.com/AlenSony/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/AlenSony/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
