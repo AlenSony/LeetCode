@@ -173,4 +173,5 @@ This is for storing my leetcode submissions
 | [0183-customers-who-never-order](https://github.com/AlenSony/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/AlenSony/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/AlenSony/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/AlenSony/LeetCode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
