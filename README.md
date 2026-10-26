@@ -171,6 +171,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AlenSony/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0180-consecutive-numbers](https://github.com/AlenSony/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/AlenSony/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/AlenSony/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/AlenSony/LeetCode/tree/main/0197-rising-temperature/) | Easy |
