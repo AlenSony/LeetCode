@@ -174,6 +174,7 @@ This is for storing my leetcode submissions
 | [0180-consecutive-numbers](https://github.com/AlenSony/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0182-duplicate-emails](https://github.com/AlenSony/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/AlenSony/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/AlenSony/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/AlenSony/LeetCode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/AlenSony/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/AlenSony/LeetCode/tree/main/0577-employee-bonus/) | Easy |
