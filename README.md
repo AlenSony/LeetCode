@@ -10,6 +10,7 @@ This is for storing my leetcode submissions
 | [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/AlenSony/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/AlenSony/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/AlenSony/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AlenSony/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AlenSony/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -42,6 +43,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/AlenSony/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/AlenSony/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AlenSony/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
