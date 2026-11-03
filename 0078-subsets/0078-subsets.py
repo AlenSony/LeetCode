@@ -1,0 +1,26 @@
+class Solution(object):
+    def subsets(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+
+        answer = []
+
+        def backtrack(start, current):
+            answer.append(current[:])
+
+            for i in range(start, len(nums)):
+                current.append(nums[i])
+
+                backtrack(i + 1, current)
+
+                current.pop()
+
+        backtrack(0, [])
+
+        return answer
+        
+        
+
+        
