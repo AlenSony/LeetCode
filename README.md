@@ -9,6 +9,7 @@ This is for storing my leetcode submissions
 | [0016-3sum-closest](https://github.com/AlenSony/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/AlenSony/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/AlenSony/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/AlenSony/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/AlenSony/LeetCode/tree/main/0120-triangle/) | Medium |
@@ -157,6 +158,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/AlenSony/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/AlenSony/LeetCode/tree/main/0136-single-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AlenSony/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Divide and Conquer
@@ -190,4 +192,8 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/AlenSony/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/AlenSony/LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
