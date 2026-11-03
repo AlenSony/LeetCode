@@ -5,20 +5,16 @@ class Solution(object):
         :rtype: List[List[int]]
         """
 
-        answer = []
+        answer = [[]]
 
-        def backtrack(start, current):
-            answer.append(current[:])
+        for num in nums:
 
-            for i in range(start, len(nums)):
-                current.append(nums[i])
+            new_subset = []
 
-                backtrack(i + 1, current)
+            for subset in answer:
+                new_subset.append(subset+[num])
 
-                current.pop()
-
-        backtrack(0, [])
-
+            answer.extend(new_subset)
         return answer
         
         
