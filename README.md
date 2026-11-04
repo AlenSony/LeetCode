@@ -94,6 +94,7 @@ This is for storing my leetcode submissions
 | [0014-longest-common-prefix](https://github.com/AlenSony/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/AlenSony/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/AlenSony/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/AlenSony/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlenSony/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/AlenSony/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AlenSony/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
