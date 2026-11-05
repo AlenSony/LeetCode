@@ -16,6 +16,7 @@ This is for storing my leetcode submissions
 | [0120-triangle](https://github.com/AlenSony/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/AlenSony/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/AlenSony/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AlenSony/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -83,6 +84,7 @@ This is for storing my leetcode submissions
 | [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/AlenSony/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/AlenSony/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Memoization
@@ -108,6 +110,7 @@ This is for storing my leetcode submissions
 | [0016-3sum-closest](https://github.com/AlenSony/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlenSony/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/AlenSony/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AlenSony/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
@@ -168,6 +171,7 @@ This is for storing my leetcode submissions
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/AlenSony/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/AlenSony/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AlenSony/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -212,4 +216,12 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/AlenSony/LeetCode/tree/main/0278-first-bad-version/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
