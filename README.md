@@ -24,6 +24,7 @@ This is for storing my leetcode submissions
 | [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AlenSony/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
@@ -56,6 +57,7 @@ This is for storing my leetcode submissions
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ This is for storing my leetcode submissions
 | [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ This is for storing my leetcode submissions
 | [0169-majority-element](https://github.com/AlenSony/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/AlenSony/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +140,7 @@ This is for storing my leetcode submissions
 | [0242-valid-anagram](https://github.com/AlenSony/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
