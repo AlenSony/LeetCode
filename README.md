@@ -22,6 +22,7 @@ This is for storing my leetcode submissions
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -35,6 +36,7 @@ This is for storing my leetcode submissions
 | [0263-ugly-number](https://github.com/AlenSony/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlenSony/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlenSony/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -133,6 +135,7 @@ This is for storing my leetcode submissions
 | [0169-majority-element](https://github.com/AlenSony/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/AlenSony/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/AlenSony/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AlenSony/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
