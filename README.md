@@ -39,6 +39,7 @@ This is for storing my leetcode submissions
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/AlenSony/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlenSony/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AlenSony/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -57,6 +58,7 @@ This is for storing my leetcode submissions
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/AlenSony/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/AlenSony/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/AlenSony/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
