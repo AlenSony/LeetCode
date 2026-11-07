@@ -25,6 +25,7 @@ This is for storing my leetcode submissions
 | [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/AlenSony/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2942-find-words-containing-character](https://github.com/AlenSony/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -238,4 +239,8 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AlenSony/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/AlenSony/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 <!---LeetCode Topics End-->
