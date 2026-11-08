@@ -141,6 +141,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlenSony/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AlenSony/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AlenSony/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AlenSony/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
