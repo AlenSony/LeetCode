@@ -8,6 +8,7 @@ This is for storing my leetcode submissions
 | [0014-longest-common-prefix](https://github.com/AlenSony/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/AlenSony/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/AlenSony/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AlenSony/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AlenSony/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -53,6 +54,7 @@ This is for storing my leetcode submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/AlenSony/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AlenSony/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/AlenSony/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/AlenSony/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -152,6 +154,7 @@ This is for storing my leetcode submissions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/AlenSony/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AlenSony/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AlenSony/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Counting
