@@ -26,6 +26,7 @@ This is for storing my leetcode submissions
 | [0540-single-element-in-a-sorted-array](https://github.com/AlenSony/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AlenSony/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0867-transpose-matrix](https://github.com/AlenSony/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/AlenSony/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/AlenSony/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/AlenSony/LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
@@ -206,6 +207,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/AlenSony/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ This is for storing my leetcode submissions
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AlenSony/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
+| [0867-transpose-matrix](https://github.com/AlenSony/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
