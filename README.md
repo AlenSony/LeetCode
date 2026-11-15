@@ -9,6 +9,7 @@ This is for storing my leetcode submissions
 | [0016-3sum-closest](https://github.com/AlenSony/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0035-search-insert-position](https://github.com/AlenSony/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/AlenSony/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/AlenSony/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AlenSony/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/AlenSony/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -37,6 +38,7 @@ This is for storing my leetcode submissions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/AlenSony/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/AlenSony/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/AlenSony/LeetCode/tree/main/0069-sqrtx/) | Easy |
@@ -237,6 +239,7 @@ This is for storing my leetcode submissions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/AlenSony/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/AlenSony/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlenSony/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/AlenSony/LeetCode/tree/main/0840-magic-squares-in-grid/) | Medium |
