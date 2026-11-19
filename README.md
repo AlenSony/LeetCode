@@ -58,6 +58,7 @@ This is for storing my leetcode submissions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AlenSony/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/AlenSony/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AlenSony/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/AlenSony/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -114,6 +115,7 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AlenSony/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/AlenSony/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/AlenSony/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AlenSony/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/AlenSony/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -215,6 +217,7 @@ This is for storing my leetcode submissions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AlenSony/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/AlenSony/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -260,4 +263,8 @@ This is for storing my leetcode submissions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1882-process-tasks-using-servers](https://github.com/AlenSony/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AlenSony/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
